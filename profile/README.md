@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://github.com/codestates-seb/seb39_main_015/assets/41741221/c30102a7-02d1-4472-b907-0cad9a5fc19d" width=320>
-<h3 align="center">바쁘다 바빠 현대 사회 속, 걸으며 생각할 수 있는 여유를 제공합니다.<br>본격 산책 어플리케이션</h3>
-<img width="160" alt="qrcode" src="https://github.com/codestates-seb/seb39_main_015/assets/41741221/2b69220b-5264-48f1-81c0-46272748f51b">
+<h3 align="center">소개<br>소개</h3>
 </div>
 
 <br>
+만들때 참고하기 좋은 사이트
+https://github.com/codestates-seb/seb39_main_015
 
 - **팀 명 :** 
 - **프로젝트 명 :** 
