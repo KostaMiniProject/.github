@@ -18,8 +18,8 @@
 <table>
 <!-- 팀 -->
   <tr>
-    <td align="center" colspan="3"><strong>(메인)프론트엔드</strong></td>
-    <td align="center" colspan="3"><strong>(메인)백엔드</strong></td>
+    <td align="center" colspan="1"><strong>(메인)프론트엔드</strong></td>
+    <td align="center" colspan="4"><strong>(메인)백엔드</strong></td>
   </tr>
 
 <!-- 이미지 -->
