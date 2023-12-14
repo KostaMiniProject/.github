@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/ConnectingChips/.github/assets/40792205/417a621e-871e-4735-b96b-46c264f8e35c" />
+  <img src="https://github.com/KostaMiniProject/.github/assets/40792205/b95ad270-288c-44ec-8f47-e9b2ad4f267e" />
   <h1>가치잇솝</h1>
   <p>‘가치잇솝’은 나에게서 다한 물건의 가치를 다른 사람과 교환해 물건의 가치를 이어나가는 물물교환 모바일 웹 서비스입니다. <br /> 
     물물교환을 통해 서로간 가치를 다한 물건들의 가치를 되찾아주고 이어나가고자 합니다.</p>
