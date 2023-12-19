@@ -85,8 +85,8 @@
 
 ## 기술 스택 
 ### Front-end
-<img width="1020" alt="Front-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/c8329e93-96dc-4350-a331-f3d0dc7ea2c6">
-![image](https://github.com/KostaMiniProject/.github/assets/40792205/8fe977ac-3f48-4099-a4a0-8f584b7cefca)
+<img width="1020" alt="Front-end-stack" src="https://github.com/KostaMiniProject/.github/assets/40792205/1cbd25e5-535a-4e3e-946c-5380dd56ac9b">
+
 
 ### Back-end
 <img width="1020" alt="Back-end-stack" src="https://github.com/KostaMiniProject/.github/assets/40792205/efeeb8b1-d249-4f7f-8cc2-2774897bf352">
