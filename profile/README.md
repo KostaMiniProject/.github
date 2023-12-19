@@ -89,7 +89,7 @@
 ![image](https://github.com/KostaMiniProject/.github/assets/40792205/8fe977ac-3f48-4099-a4a0-8f584b7cefca)
 
 ### Back-end
-<img width="1020" alt="Back-end-stack" src="https://github.com/ConnectingChips/.github/assets/77181642/1c17b3ce-bd70-4ed6-a5ee-2df7b73a3862">
+<img width="1020" alt="Back-end-stack" src="https://github.com/KostaMiniProject/.github/assets/40792205/efeeb8b1-d249-4f7f-8cc2-2774897bf352">
 
 <br />
 
