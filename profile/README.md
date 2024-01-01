@@ -95,17 +95,7 @@
 
 ## 아키텍쳐
 
-### CI/CD
-![CICD](https://github.com/KostaMiniProject/.github/assets/40792205/baa81cb8-bb65-470e-9dd0-040267186724)
-
-<br />
-
 ### 서버
 ![서버현황](https://github.com/KostaMiniProject/.github/assets/40792205/911fd65e-be50-4807-841b-4cc93c01e172)
 
-<br />
-
-### 이미지 배포
-
-![이미지배포현황](https://github.com/KostaMiniProject/.github/assets/40792205/597ed77d-4ecd-4ed7-8099-e41770e86152)
 <br />
