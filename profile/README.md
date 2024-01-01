@@ -103,3 +103,8 @@
 ![서버현황](https://github.com/KostaMiniProject/.github/assets/40792205/911fd65e-be50-4807-841b-4cc93c01e172)
 
 <br />
+
+## API 명세서
+
+### RestDocs
+* https://wass.itsop.shop/docs/index.html
